@@ -1,0 +1,64 @@
+﻿@model IEnumerable<projet2.Models.Order>
+
+<h1>Liste des commandes</h1>
+
+<form method="get" asp-action="Index">
+    <div class="form-group">
+        <label for="email">Rechercher par e-mail:</label>
+        <input type="email" name="email" class="form-control" placeholder="Entrer l'e-mail de l'utilisateur" />
+    </div>
+    <button type="submit" class="btn btn-primary">Rechercher</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Numéro de commande</th>
+            <th>Date de commande</th>
+            <th>Montant total</th>
+            <th>Utilisateur</th>
+            <th>État de livraison</th>
+            <th>Produits</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.OrderDate</td>
+                <td>@order.TotalAmount</td>
+                <td>@order.User</td>
+                <td>@(order.IsDelivered ? "Livré" : "Non livré")</td>
+                <td>
+                    <ul>
+                        @if (order.Products != null)
+                        {
+                            foreach (var product in order.Products)
+                            {
+                                <li>@product.Désignation (@product.Quantite)</li>
+                            }
+                        }
+                        else
+                        {
+                            <li>Aucun produit</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    @if (!order.IsDelivered)
+                    {
+                        <form asp-action="Deliver" asp-route-id="@order.OrderId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-primary">Livrer</button>
+                        </form>
+                    }
+                    <a asp-action="Details" asp-route-id="@order.OrderId">Détails</a> |
+
+                    <a asp-action="Delete" asp-route-id="@order.OrderId">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Dashboard", "Admin")" class="btn btn-secondary">Retour</a>

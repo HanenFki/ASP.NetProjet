@@ -1,0 +1,35 @@
+﻿@model IEnumerable<projet2.Models.Produit>
+
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<h2>Search Results</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Price</th>
+                <!-- Ajoutez d'autres en-têtes de colonne selon vos besoins -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Désignation</td>
+                    <td>@product.Prix</td>
+                    <!-- Ajoutez d'autres colonnes avec les propriétés de votre modèle de produit -->
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No results found.</p>
+}

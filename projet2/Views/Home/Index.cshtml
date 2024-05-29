@@ -1,0 +1,190 @@
+﻿@model projet2.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+@section SearchBar {
+<!-- Barre de recherche -->
+
+    <form method="get" action="@Url.Action("Search", "Home")" class="input">
+            <input name="query" class="input" placeholder="Search here">
+       
+                <button type="submit" class="search-btn">Search</button>
+       
+    </form>
+
+}
+@section CartItemCount {
+    <div class="qty">@Model?.CartItemCount  </div>
+}
+@section CartItems {
+    <div class="cart-list">
+        @if (Model?.CartItems != null)
+        {
+            foreach (var cartItem in Model.CartItems)
+            {
+                <div class="product-widget">
+                    <div class="product-img">
+                        <img src="@Url.Content($"~/img/{cartItem.Produit.Image}")">
+                    </div>
+                    <div class="product-body">
+                        <h3 class="product-name"><a href="#">@cartItem.Produit.Désignation</a></h3>
+                        <h4 class="product-price">@cartItem.Produit.Prix</h4>
+                        <p class="qty">Quantity: @cartItem.Quantite</p>
+                    </div>
+                    <button class="delete"><i class="fa fa-close"></i></button>
+                </div>
+            }
+        }
+
+    </div>
+    <div class="cart-summary">
+        <small>@Model.CartItemCount 0 Item(s) selected</small>
+        <h5>SUBTOTAL: @Model.CartTotal 0</h5>
+    </div>
+    <div class="cart-btns">
+        <a href="@Url.Action("Cart", "Home")">View Cart</a>
+    </div>
+                                 
+}
+@section Marque {
+    <select class="input-select" name="marque">
+        <option value="">Toutes les marques</option>
+        @if (Model.Marques != null)
+        {
+            foreach (var marque in Model.Marques)
+            {
+                <option value="@marque">@marque</option>
+            }
+        }
+        <button type="submit" class="search-btn">Search</button>
+    </select>
+}
+
+<!-- SECTION -->
+<!-- SECTION -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <h3 class="title">Categories</h3>
+            <!-- shop -->
+            @foreach (var categorie in Model.Categories)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <!-- Utilisez les classes de Bootstrap pour spécifier la largeur des colonnes -->
+                    <div class="shop">
+                        <div class="shop-img">
+                            <img src="~/img/@categorie.ImageUrl">
+                        </div>
+                        <div class="shop-body">
+                            <h3>@categorie.Name<br>Collection</h3>
+                            <a href="@Url.Action("ProductsByCategory", "Product", new { categoryId = categorie.Id })" class="cta-btn">Shop now <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+            <!-- /shop -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /SECTION -->
+<!-- SECTION -->
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">Products</h3>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <div class="row">
+                    <!-- product -->
+                    @foreach (var produit in Model.Products)
+                    {
+                        <div class="col-md-4">
+                            <!-- Changer col-md-3 à col-md-4 pour trois colonnes par ligne -->
+                            <div class="product">
+                                <div class="product-img">
+                                    <img src="@Url.Content($"~/img/{produit.Image}")" alt="@produit.Désignation">
+                                    <!-- Assurez-vous de remplacer 'product.ImageUrl' et 'product.Name' par les propriétés réelles de votre modèle de produit -->
+                                    <div class="product-label">
+                                        <!-- Vous pouvez ajouter des étiquettes ici, telles que 'sale', 'new', etc., en fonction des propriétés de votre modèle -->
+                                    </div>
+                                </div>
+                                <div class="product-body">
+                                    <p class="product-category">@produit.Category.Name</p>
+                                    <!-- Assurez-vous de remplacer 'product.Category' par la propriété réelle de votre modèle de produit -->
+                                    <h3 class="product-name"><a href="#">@produit.Désignation</a></h3>
+                                    <!-- Assurez-vous de remplacer 'product.Name' par la propriété réelle de votre modèle de produit -->
+                                    <h4 class="product-price">DT @produit.Prix</h4>
+                                    <!-- Assurez-vous de remplacer 'product.Price' par la propriété réelle de votre modèle de produit -->
+                                    <!-- Ajoutez d'autres éléments, comme les boutons d'action, etc., en fonction de vos besoins -->
+                                </div>
+                                <div class="add-to-cart">
+                                    <form asp-controller="Home" asp-action="AddToCart" method="post">
+                                        <input type="hidden" name="productId" value="@produit.Id" />
+                                        <button type="submit" class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    <!-- /product -->
+                </div>
+                <div id="slick-nav-1" class="products-slick-nav"></div>
+            </div>
+        </div>
+    </div>
+    <!-- /container -->
+</div>
+<!-- /SECTION -->
+<!-- HOT DEAL SECTION -->
+<div id="hot-deal" class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="hot-deal">
+                    <ul class="hot-deal-countdown">
+                        <li>
+                            <div>
+                                <h3>02</h3>
+                                <span>Days</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>10</h3>
+                                <span>Hours</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>34</h3>
+                                <span>Mins</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>60</h3>
+                                <span>Secs</span>
+                            </div>
+                        </li>
+                    </ul>
+                    <h2 class="text-uppercase">hot deal this week</h2>
+                    <p>New Collection Up to 50% OFF</p>
+                    <a class="primary-btn cta-btn" href="#">Shop now</a>
+                </div>
+            </div>
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /HOT DEAL SECTION -->

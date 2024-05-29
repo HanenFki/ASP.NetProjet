@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\projet2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\projet2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\03cd781d-d7b3-44b2-a628-32fe5bf6cdd9_lg-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\03cd781d-d7b3-44b2-a628-32fe5bf6cdd9_lg-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png",
+      "PackagePath": "staticwebassets\\img\\06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\0731a5bd-03a7-46a6-aeba-aa69dc44aa07_REFRIGERATEUR-COMBINE-WHIRLPOOL-360-LITRES-NOFROST-INOX-6eme-sens-WFNF-81E-OX-VERSION-2-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\0731a5bd-03a7-46a6-aeba-aa69dc44aa07_REFRIGERATEUR-COMBINE-WHIRLPOOL-360-LITRES-NOFROST-INOX-6eme-sens-WFNF-81E-OX-VERSION-2-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\0a72ae2d-a889-4e22-b1c1-65744fe4e571_49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png",
+      "PackagePath": "staticwebassets\\img\\0a72ae2d-a889-4e22-b1c1-65744fe4e571_49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png",
+      "PackagePath": "staticwebassets\\img\\1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\12a4613a-c2b8-4348-9d86-4f74e9ea4008_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\12a4613a-c2b8-4348-9d86-4f74e9ea4008_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\1ba6a3ba-ccbe-4e8b-a34d-6c90bd507453_ae0e88a7-9dd1-4cf3-b102-5ac735ef7f32_4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg",
+      "PackagePath": "staticwebassets\\img\\1ba6a3ba-ccbe-4e8b-a34d-6c90bd507453_ae0e88a7-9dd1-4cf3-b102-5ac735ef7f32_4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\204f38eb-5814-4299-92da-e99c556b5a4f_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\204f38eb-5814-4299-92da-e99c556b5a4f_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\266aaf31-c5b7-4d6f-a0ff-1ed500d41842_accessdenied.png",
+      "PackagePath": "staticwebassets\\img\\266aaf31-c5b7-4d6f-a0ff-1ed500d41842_accessdenied.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\2b291bf3-1b6f-4328-8387-6779927acd19_4ce2ffb1-fb8c-45e0-b4d6-83b28967aff0_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\2b291bf3-1b6f-4328-8387-6779927acd19_4ce2ffb1-fb8c-45e0-b4d6-83b28967aff0_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\2c1463cf-b89c-4559-8531-9bd539563631_f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png",
+      "PackagePath": "staticwebassets\\img\\2c1463cf-b89c-4559-8531-9bd539563631_f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\3103bd09-9409-4ac1-b167-2fe98ddd5f5c_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\3103bd09-9409-4ac1-b167-2fe98ddd5f5c_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\3a27ccca-ce04-46fd-90d6-f03bcc779749_MICRO-ONDE-CANDY-20-LITRES-CMXG20DR-e1689685418943-1-1-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\3a27ccca-ce04-46fd-90d6-f03bcc779749_MICRO-ONDE-CANDY-20-LITRES-CMXG20DR-e1689685418943-1-1-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\3e00714e-dbca-4dad-b9bb-971d4854b79c_3103bd09-9409-4ac1-b167-2fe98ddd5f5c_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\3e00714e-dbca-4dad-b9bb-971d4854b79c_3103bd09-9409-4ac1-b167-2fe98ddd5f5c_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\47e10865-1ccf-489c-8f56-98bda44b3468_product07.png",
+      "PackagePath": "staticwebassets\\img\\47e10865-1ccf-489c-8f56-98bda44b3468_product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png",
+      "PackagePath": "staticwebassets\\img\\49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\4ce2ffb1-fb8c-45e0-b4d6-83b28967aff0_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\4ce2ffb1-fb8c-45e0-b4d6-83b28967aff0_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg",
+      "PackagePath": "staticwebassets\\img\\4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\4d5ce73c-202c-4423-9fcd-b5c91d87179b_77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\4d5ce73c-202c-4423-9fcd-b5c91d87179b_77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\4e6e7a21-9203-446a-8cd1-0679cf1032e8_1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png",
+      "PackagePath": "staticwebassets\\img\\4e6e7a21-9203-446a-8cd1-0679cf1032e8_1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\56244a9a-93e1-443c-9ba8-e770f479a757_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\56244a9a-93e1-443c-9ba8-e770f479a757_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\592ce601-8186-42a7-9f09-cdc8b7193a0c_f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png",
+      "PackagePath": "staticwebassets\\img\\592ce601-8186-42a7-9f09-cdc8b7193a0c_f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\5aada4c4-4975-42fd-b318-defe9947e598_PLAQUE-DE-CUISSON-4-FEUX-EN-.jpg",
+      "PackagePath": "staticwebassets\\img\\5aada4c4-4975-42fd-b318-defe9947e598_PLAQUE-DE-CUISSON-4-FEUX-EN-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\62f29bd1-a33f-4cb1-9736-7daf1aa19eb9_micro-onde-condor-cmw-m2005w-20l-blanc.jpg",
+      "PackagePath": "staticwebassets\\img\\62f29bd1-a33f-4cb1-9736-7daf1aa19eb9_micro-onde-condor-cmw-m2005w-20l-blanc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\6c25986c-e353-4c6f-85ff-89b8c55fd2be_hotdeal.png",
+      "PackagePath": "staticwebassets\\img\\6c25986c-e353-4c6f-85ff-89b8c55fd2be_hotdeal.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\77228178-dd0d-4e64-95f6-ca3e320c64a4_1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png",
+      "PackagePath": "staticwebassets\\img\\77228178-dd0d-4e64-95f6-ca3e320c64a4_1224695d-f6a1-40d6-bf57-72e01ada3775_product01.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\7e244a0f-a84a-41ce-a543-4ee6b801fa4c_REFRIGERATEUR-COMBINE-SAMSUNG-NOIR-RB34T673-EBN-1.jpg",
+      "PackagePath": "staticwebassets\\img\\7e244a0f-a84a-41ce-a543-4ee6b801fa4c_REFRIGERATEUR-COMBINE-SAMSUNG-NOIR-RB34T673-EBN-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\7f703eea-dc6b-4924-a2aa-36fc7b1c9b6d_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\7f703eea-dc6b-4924-a2aa-36fc7b1c9b6d_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\8e16d27f-c8c8-4bc8-8251-a7f2b2260bf8_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png",
+      "PackagePath": "staticwebassets\\img\\8e16d27f-c8c8-4bc8-8251-a7f2b2260bf8_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png",
+      "PackagePath": "staticwebassets\\img\\93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\9a40449e-7588-4354-a62b-ce9ecd35ecdb_product02.png",
+      "PackagePath": "staticwebassets\\img\\9a40449e-7588-4354-a62b-ce9ecd35ecdb_product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\9cf32b5f-af80-4604-9792-d7d33489a4ef_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\9cf32b5f-af80-4604-9792-d7d33489a4ef_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\APOA_TP07.pdf",
+      "PackagePath": "staticwebassets\\img\\APOA_TP07.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\LAVE-LINGE-WHIRLPOOL-6-KG-SILVER-1000-trsmn-WMTA-6101-S-NA-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\LAVE-LINGE-WHIRLPOOL-6-KG-SILVER-1000-trsmn-WMTA-6101-S-NA-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\MICRO-ONDE-CANDY-20-LITRES-CMXG20DR-e1689685418943-1-1-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\MICRO-ONDE-CANDY-20-LITRES-CMXG20DR-e1689685418943-1-1-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\PLAQUE-DE-CUISSON-4-FEUX-EN-.jpg",
+      "PackagePath": "staticwebassets\\img\\PLAQUE-DE-CUISSON-4-FEUX-EN-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\REFRIGERATEUR-COMBINE-SAMSUNG-NOIR-RB34T673-EBN-1.jpg",
+      "PackagePath": "staticwebassets\\img\\REFRIGERATEUR-COMBINE-SAMSUNG-NOIR-RB34T673-EBN-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\REFRIGERATEUR-COMBINE-WHIRLPOOL-360-LITRES-NOFROST-INOX-6eme-sens-WFNF-81E-OX-VERSION-2-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\REFRIGERATEUR-COMBINE-WHIRLPOOL-360-LITRES-NOFROST-INOX-6eme-sens-WFNF-81E-OX-VERSION-2-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg",
+      "PackagePath": "staticwebassets\\img\\REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\TP7_Mysql_Corrigé.pdf",
+      "PackagePath": "staticwebassets\\img\\TP7_Mysql_Corrigé.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\a1dae24e-0cdb-48f5-a348-674cdf0f1374_77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\a1dae24e-0cdb-48f5-a348-674cdf0f1374_77e44dc5-bc71-475d-9057-f7ecc6735667_micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\a96c78b3-df16-4a79-b20d-93259e44a114_lg-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\a96c78b3-df16-4a79-b20d-93259e44a114_lg-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\ab146983-8585-4bb4-89b3-e95950acb9dd_0a72ae2d-a889-4e22-b1c1-65744fe4e571_49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png",
+      "PackagePath": "staticwebassets\\img\\ab146983-8585-4bb4-89b3-e95950acb9dd_0a72ae2d-a889-4e22-b1c1-65744fe4e571_49d9e32d-5174-4864-9f91-999e7ebdc2f0_93b0ddcd-8b28-4614-9217-33d9932b6276_单洗画板-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\ab245af7-35a4-400e-a420-6af380ac4e59_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\ab245af7-35a4-400e-a420-6af380ac4e59_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\accessdenied.png",
+      "PackagePath": "staticwebassets\\img\\accessdenied.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\ae0e88a7-9dd1-4cf3-b102-5ac735ef7f32_4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg",
+      "PackagePath": "staticwebassets\\img\\ae0e88a7-9dd1-4cf3-b102-5ac735ef7f32_4d5a0373-c595-4115-824c-52d84ac77ac4_REFRIGERATEUR-COMBINE-WHIRLPOOL-NO-FROST-650-LITRES-6eme-sens-INOX-W84BE72X.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\b73e5e00-0b91-47ae-8cf3-86db2a0c7948_f59d554d-4c83-42d6-80d2-8a40291fafdd_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png",
+      "PackagePath": "staticwebassets\\img\\b73e5e00-0b91-47ae-8cf3-86db2a0c7948_f59d554d-4c83-42d6-80d2-8a40291fafdd_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\c5126349-e65f-4914-866e-8dbbc03f84a9_shop03.png",
+      "PackagePath": "staticwebassets\\img\\c5126349-e65f-4914-866e-8dbbc03f84a9_shop03.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\d61ddbb9-f7f8-44f6-afed-b44625ae6933_LAVE-LINGE-WHIRLPOOL-6-KG-SILVER-1000-trsmn-WMTA-6101-S-NA-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\d61ddbb9-f7f8-44f6-afed-b44625ae6933_LAVE-LINGE-WHIRLPOOL-6-KG-SILVER-1000-trsmn-WMTA-6101-S-NA-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\d911e7bc-d4ff-489b-9780-6571291a5f4c_ab245af7-35a4-400e-a420-6af380ac4e59_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\d911e7bc-d4ff-489b-9780-6571291a5f4c_ab245af7-35a4-400e-a420-6af380ac4e59_13f2cf39-6c28-48b4-8996-0a029e00a5a3_0b5b6bf3-70db-4c2e-ac12-0514ce435f70_plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\e9bf6a34-a450-4316-b3b4-fc631de3237e_lg-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\e9bf6a34-a450-4316-b3b4-fc631de3237e_lg-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png",
+      "PackagePath": "staticwebassets\\img\\f1b3c623-d0ea-4c99-82b9-44bf98a137c1_06b9da0e-316d-42ad-bbb6-e33a30665120_product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\f59d554d-4c83-42d6-80d2-8a40291fafdd_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png",
+      "PackagePath": "staticwebassets\\img\\f59d554d-4c83-42d6-80d2-8a40291fafdd_47e10865-1ccf-489c-8f56-98bda44b3468_product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\fd3f487a-6102-4ee5-b152-1c19ca5a7cff_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fd3f487a-6102-4ee5-b152-1c19ca5a7cff_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\fe6c7259-0eb5-40e4-9b1d-24c8c048fc92_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fe6c7259-0eb5-40e4-9b1d-24c8c048fc92_dd2545ff-bd67-4304-a3b0-b1138dcd5ad4_REFRIGE-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\hotdeal.png",
+      "PackagePath": "staticwebassets\\img\\hotdeal.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\lg-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\lg-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg",
+      "PackagePath": "staticwebassets\\img\\micro-onde-cmw-m2307w-23-lt-blanc-condor-768x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\micro-onde-condor-cmw-m2005w-20l-blanc.jpg",
+      "PackagePath": "staticwebassets\\img\\micro-onde-condor-cmw-m2005w-20l-blanc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg",
+      "PackagePath": "staticwebassets\\img\\plaque-de-cuisson-franco-5-feux-70-cm-inox-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\plaque-de-cuisson-gaz.jpg",
+      "PackagePath": "staticwebassets\\img\\plaque-de-cuisson-gaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\png-clipart-microwave-microwave.png",
+      "PackagePath": "staticwebassets\\img\\png-clipart-microwave-microwave.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product01.png",
+      "PackagePath": "staticwebassets\\img\\product01.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product02.png",
+      "PackagePath": "staticwebassets\\img\\product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product03.png",
+      "PackagePath": "staticwebassets\\img\\product03.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product04.png",
+      "PackagePath": "staticwebassets\\img\\product04.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product05.png",
+      "PackagePath": "staticwebassets\\img\\product05.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product06.png",
+      "PackagePath": "staticwebassets\\img\\product06.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product07.png",
+      "PackagePath": "staticwebassets\\img\\product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product08.png",
+      "PackagePath": "staticwebassets\\img\\product08.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\product09.png",
+      "PackagePath": "staticwebassets\\img\\product09.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\shop01.png",
+      "PackagePath": "staticwebassets\\img\\shop01.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\shop02.png",
+      "PackagePath": "staticwebassets\\img\\shop02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\shop03.png",
+      "PackagePath": "staticwebassets\\img\\shop03.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\img\\单洗画板-4.png",
+      "PackagePath": "staticwebassets\\img\\单洗画板-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\js\\CustomScript.js",
+      "PackagePath": "staticwebassets\\js\\CustomScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\slick.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\main.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\bootstrap\\dist\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\C#\\projet2\\projet2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.projet2.props",
+      "PackagePath": "build\\projet2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.projet2.props",
+      "PackagePath": "buildMultiTargeting\\projet2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.projet2.props",
+      "PackagePath": "buildTransitive\\projet2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.projet2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

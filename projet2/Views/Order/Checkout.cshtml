@@ -1,0 +1,49 @@
+﻿@model projet2.ViewModels.HomeViewModel
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+@if (Model.CartItems != null && Model.CartItems.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Image de produit</th>
+                <th>Produit</th>
+                <th>Prix</th>
+                <th>Quantité</th>
+                <th>Sous-total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                <tr>
+                    <td><img class="img-thumbnail" src="@Url.Content($"~/img/{item.Produit.Image}")" alt="Product Image" width="100" height="100" /></td>
+                    <td>@item.Produit.Désignation</td>
+                    <td>@item.Produit.Prix</td>
+                    <td>@item.Quantite</td>
+                    <td>@item.TotalPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div>
+        <h4>Total: @Model.CartTotal</h4>
+        <form asp-action="Checkout" method="post">
+            <div>
+                <label for="userEmail">Email</label>
+                <input type="text" id="userEmail" value="@Model.UserEmail" readonly />
+            </div>
+            <button type="submit" class="btn btn-primary">Confirm Order</button>
+        </form>
+    </div>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}

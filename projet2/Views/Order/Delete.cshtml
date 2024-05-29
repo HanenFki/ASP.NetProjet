@@ -1,0 +1,41 @@
+﻿@model projet2.Models.Order
+
+<h1>Supprimer la commande</h1>
+
+<h3>Êtes-vous sûr de vouloir supprimer cette commande?</h3>
+<div>
+    <h4>Commande</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Numéro de commande
+        </dt>
+        <dd class="col-sm-10">
+            @Model.OrderId
+        </dd>
+        <dt class="col-sm-2">
+            Date de commande
+        </dt>
+        <dd class="col-sm-10">
+            @Model.OrderDate
+        </dd>
+        <dt class="col-sm-2">
+            Montant total
+        </dt>
+        <dd class="col-sm-10">
+            @Model.TotalAmount
+        </dd>
+        <dt class="col-sm-2">
+            Utilisateur
+        </dt>
+        <dd class="col-sm-10">
+            @Model.User
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="OrderId" />
+        <button type="submit" class="btn btn-danger">Supprimer</button>
+        <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+    </form>
+</div>

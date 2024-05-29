@@ -1,0 +1,41 @@
+﻿
+@model IEnumerable<projet2.Models.Produit>
+
+@{
+   
+    var categoryName = Model.FirstOrDefault()?.Category?.Name; // Récupérez le nom de la catégorie depuis le premier produit de la liste (s'il existe)
+    ViewData["Title"] = "ProductsByCategory - " + categoryName;
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="product">
+                <div class="product-img">
+                      <img src="~/img/@item.Image" alt="">
+                    <div class="product-label">
+                        <span class="new">NEW</span>
+                    </div>
+                </div>
+                <div class="product-body">
+                    <p class="product-category">@item.Category.Name</p>
+                    <h3 class="product-name"><a href="#">@item.Désignation</a></h3>
+                    <h4 class="product-price">@item.Prix <del class="product-old-price">@item.Prix</del></h4>
+
+                    <div class="product-btns">
+                        <button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+                        <button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+                        <button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+                    </div>
+                </div>
+                <div class="add-to-cart">
+                    <form asp-action="AddToCart" asp-controller="Home" method="post">
+                        <input type="hidden" name="productId" value="@item.Id" />
+                        <button type="submit" class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>

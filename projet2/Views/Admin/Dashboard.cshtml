@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Welcome to the Admin Dashboard</h2>
+
+<div>
+    <h3>Admin Actions:</h3>
+    <ul>
+        <li><a href="@Url.Action("CreateRole", "Admin")">Create Role</a></li>
+        <li><a href="@Url.Action("ListRoles", "Admin")">List Roles</a></li>
+        <li><a href="@Url.Action("Index", "Product")">List Products</a></li>
+        <li><a href="@Url.Action("Index", "Categorie")">List Categories</a></li>
+        <li><a href="@Url.Action("Index", "Order")">List Orders</a></li>
+        <!-- Add more links as needed -->
+    </ul>
+</div>
